@@ -3,6 +3,7 @@
 This repository adjusts the bitbake repository to package the
 bitbake-setup tool into PyPI.
 
+Start with a working copy of this repository.
 
 Clone the bitbake repository
 ```
